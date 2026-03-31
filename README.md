@@ -122,3 +122,8 @@ Query 10 – Inactive Players
 <img width="628" height="400" alt="Screen Shot 2026-03-31 at 10 44 44 AM" src="https://github.com/user-attachments/assets/80d1c89a-ab79-408b-87a5-330b73f3fe4d" />
 
 This query identifies players who have not participated in any games. Managers can use this to track inactive players and improve engagement. It helps ensure that all registered players are being utilized effectively.
+
+#Database Information
+
+Name of the database: al_Group_21482_G6
+
