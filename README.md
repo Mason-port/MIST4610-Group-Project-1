@@ -1,4 +1,4 @@
-# MIST4610-Group-Project-1
+<img width="609" height="833" alt="image" src="https://github.com/user-attachments/assets/0dc38733-6b74-4929-9a21-654233b9a4b1" /># MIST4610-Group-Project-1
 
 ## Team Name:
 21482 Group 6
@@ -37,6 +37,35 @@ The Staff table stores information about staff members, such as referees or orga
 The PlayerGameStats table is used to record statistics derived from games, such as field goals, three-point shots, rebounds, etc. Each player's game statistic is linked to a specific game and player, allowing for performance analysis at an individual level.
 
 Overall, this database supports managing league participation, team organization, game scheduling, staff assignments, and statistical tracking. It is mainly focused on the structure and operations of the league alongside player-level analytics.
+
+## Data Dictionary
+<img width="1517" height="352" alt="image" src="https://github.com/user-attachments/assets/49881290-0344-4f44-bd17-1bb279be8da0" />
+
+<img width="1520" height="346" alt="image" src="https://github.com/user-attachments/assets/bff6150b-b3e6-4379-a17d-9dbc3121bf42" />
+
+<img width="1522" height="346" alt="image" src="https://github.com/user-attachments/assets/64e23771-24cd-4947-94ce-d1b9e735b0b7" />
+
+<img width="1518" height="356" alt="image" src="https://github.com/user-attachments/assets/f02dadec-95ed-410e-8146-88e83466bd42" />
+
+<img width="1527" height="347" alt="image" src="https://github.com/user-attachments/assets/62915604-7d84-4fa6-bfe3-8628fc67816a" />
+
+<img width="1521" height="380" alt="image" src="https://github.com/user-attachments/assets/d6ecac23-3b9a-4c74-aead-a0b760dbd5ef" />
+
+<img width="1516" height="385" alt="image" src="https://github.com/user-attachments/assets/013d320e-a2c7-45c2-b45f-8a1c9f657e60" />
+
+<img width="1503" height="388" alt="image" src="https://github.com/user-attachments/assets/a587414a-14dd-442d-b470-808586e5dea6" />
+
+<img width="1511" height="395" alt="image" src="https://github.com/user-attachments/assets/9fc96e23-39be-484d-a0d8-f341e11f6166" />
+
+<img width="1517" height="383" alt="image" src="https://github.com/user-attachments/assets/51a1a9ab-937c-4ff6-9eaf-abad637dbdfb" />
+
+<img width="1527" height="396" alt="image" src="https://github.com/user-attachments/assets/d76272c0-4a0e-4e72-a281-729d499e6aae" />
+
+<img width="1527" height="468" alt="image" src="https://github.com/user-attachments/assets/a6dee2dc-b5ee-4721-89f5-3d9b5cce2374" />
+
+
+
+
 
 ## Queries:
 Query 1 – Top Scoring Players
