@@ -123,7 +123,7 @@ Query 10 – Inactive Players
 
 This query identifies players who have not participated in any games. Managers can use this to track inactive players and improve engagement. It helps ensure that all registered players are being utilized effectively.
 
-#Database Information
+# Database Information
 
 Name of the database: al_Group_21482_G6
 
