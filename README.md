@@ -68,6 +68,10 @@ Overall, this database supports managing league participation, team organization
 
 
 ## Queries:
+<img width="631" height="485" alt="Screenshot 2026-03-31 at 10 31 50 PM" src="https://github.com/user-attachments/assets/c77a0398-feed-421a-8721-bc509e05ad84" />
+
+This table helps give a quick overview of how complex each query is and what kind of SQL skills are being used. It’s useful for understanding the differences between the queries and seeing which ones are more advanced or require more logic.
+
 Query 1 – Top Scoring Players
 <img width="627" height="400" alt="Screen Shot 2026-03-31 at 10 40 18 AM" src="https://github.com/user-attachments/assets/5ea7077d-a2ee-455f-a3b2-97daa06d47ca" />
 
